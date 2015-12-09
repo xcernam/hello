@@ -16,6 +16,7 @@ public class Aa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int x = 5;
     }
     
 }
